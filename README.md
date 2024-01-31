@@ -13,7 +13,7 @@ A simple React application that fetches memes from the Reddit API and displays t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/puja113/Meme-gallery.git
+   https://github.com/puja113/Meme-gallery-.git
 
 2.Change into the project directory
  cd Meme-Gallery
